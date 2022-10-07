@@ -7,8 +7,6 @@ A aplicação Free Wallet conta com um projeto de Back-End (api em que estamos) 
   <li>npm install</li>
   <li>npm run dev</li>
 </ol>
-<p>A inicialização do projeto com o comando 'npm run dev' irá criar na pasta raiz do projeto um arquivo .sqlite, e irá executar um INSERT de alguns dados default em uma das models (TransactionCategory). A secret do JWT está disponível no arquivo nodemon.js como uma variável de ambiente (afim de testes locais ela está setada com um valor padrão, mas pode ser alterada diretamente nesse arquivo)</p>
-<p>É importante saber que atualmente o projeto seta a porta 3000 para o localhost, para consumir a API no <a href="https://github.com/calvinsteixeira/free-wallet-frontend">projeto de Front-End</a>, é importante manter essa porta, caso ela tenha seu valor alterado, o <a href="https://github.com/calvinsteixeira/free-wallet-frontend">projeto de Front-End</a> também precisa ter os paths das chamadas alterados.</p>
 
 <h3><b>Features</b></h3>
 <ul>
@@ -22,14 +20,12 @@ A aplicação Free Wallet conta com um projeto de Back-End (api em que estamos) 
 
 <h3><b>Principais tecnologias, técnicas e bibliotecas usadas</b></h3>
 <ul>
-  <li>Node.js</li>
-  <li>Express</li>
-  <li>Sqlite</li>
-  <li>Sequelize</li>
-  <li>JWT</li>
-  <li>bcrypt</li>
+  <li>Reac.js</li>
+  <li>Vite.js</li>
+  <li>Styled-Components</li>
+  <li>Ant Design</li>
   <li>Axios</li>
-</ul>
+ </ul>
 
 <h3><b>Links Extras</b></h3>
-// <a href="https://github.com/calvinsteixeira/free-wallet-frontend">Projeto Free Wallet (Back-end API)</a>
+// <a href="https://github.com/calvinsteixeira/free-wallet-backend-api">Projeto Free Wallet (Back-end API)</a>
