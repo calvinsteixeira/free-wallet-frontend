@@ -20,7 +20,7 @@ A aplicação Free Wallet conta com um projeto de Back-End (api em que estamos) 
 
 <h3><b>Principais tecnologias, técnicas e bibliotecas usadas</b></h3>
 <ul>
-  <li>Reac.js</li>
+  <li>React.js</li>
   <li>Vite.js</li>
   <li>Styled-Components</li>
   <li>Ant Design</li>
@@ -28,4 +28,4 @@ A aplicação Free Wallet conta com um projeto de Back-End (api em que estamos) 
  </ul>
 
 <h3><b>Links Extras</b></h3>
-// <a href="https://github.com/calvinsteixeira/free-wallet-backend-api">Projeto Free Wallet (Back-end API)</a>
+<a href="https://github.com/calvinsteixeira/free-wallet-backend-api">Projeto Free Wallet (Back-end API)</a>
