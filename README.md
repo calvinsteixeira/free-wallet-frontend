@@ -2,6 +2,8 @@
 
 A aplicação Free Wallet conta com um projeto de Front-End e um projeto de Back-end em Node.js, que se encontra na sessão "Links" desse Readme. Essa aplicação tem como objetivo permitir que usuário tenha um controle simples e objetivo sobre créditos e débitos realizados diariamente.
 
+Para fazer o uso completo da aplicação é necessário rodar o projeto de Back-end (projeto disponível na última sessão desse readme)
+
 <h3><b>Build</b></h3>
 <ol>
   <li>npm install</li>
