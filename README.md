@@ -1,6 +1,6 @@
 <h3><b>Sobre o projeto</b></h3>
 
-A aplicação Free Wallet conta com um projeto de Back-End (api em que estamos) e um projeto de Front-End em React, que se encontra na sessão "Links" desse Readme. Essa aplicação tem como objetivo permitir ao usuário tem um controle simples e objetivo sobre créditos e débitos realizados diariamente.
+A aplicação Free Wallet conta com um projeto de Front-End e um projeto de Back-end em Node.js, que se encontra na sessão "Links" desse Readme. Essa aplicação tem como objetivo permitir que usuário tenha um controle simples e objetivo sobre créditos e débitos realizados diariamente.
 
 <h3><b>Build</b></h3>
 <ol>
